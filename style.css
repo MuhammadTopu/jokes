@@ -1,0 +1,57 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+  }
+  body {
+   
+    background-image: url(https://static.vecteezy.com/system/resources/thumbnails/007/224/746/original/background-in-pop-art-and-comic-style-free-video.jpg);
+    background-size:cover;
+  }
+  .main {
+    width: 400px;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 58%;
+    left: 47%;
+  }
+  .content {
+    width: 100%;
+    background-color: #ff7300;
+    padding: 50px 40px;
+    box-shadow: 0 20px 65px rgba(206, 170, 173, 0.5);
+    position: relative;
+    border-radius: 600px;
+    text-align: center;
+    color: white;
+
+  }
+   .get{
+    margin-top: 1rem;
+    padding: 5px;
+    background-color: rgb(255, 232, 24);
+    color: #462525;
+    border-radius: 15px;
+    outline: none;
+    border: #000000;
+    cursor: pointer;
+  }
+  .div{
+    margin-top: 45%;
+}
+.a{
+    margin-left: 95%;
+    position: absolute;
+    font-size: 30px;
+    color: #ffffff;
+   
+}
+.b{
+  margin-left: 90%;
+}
+.foot{
+    margin-left: 5%;
+    margin-top: 1rem;
+  
+}
